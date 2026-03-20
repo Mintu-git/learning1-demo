@@ -1,3 +1,3 @@
 # learning1-demo
 This is my first Git Repository
-Author - Mintu
+Author - Mintu (My Git Learning Project)
